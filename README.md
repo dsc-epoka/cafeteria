@@ -10,4 +10,4 @@ Developed in Flutter and Firebase.
 
 <b>Project status:</b> Incomplete
 
-2020
+Solution Challenge 2020 submission
