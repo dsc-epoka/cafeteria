@@ -8,6 +8,6 @@ A Flutter application to automate cafeteria orders at Epoka University.
 
 Developed in Flutter and Firebase.
 
-<b>Project status: Incomplete</b>
+<b>Project status:</b> Incomplete
 
 2020
