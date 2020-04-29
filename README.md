@@ -2,7 +2,7 @@
 
 <span></span>
 <div style="text-align:center;"><img src="assets/logo/cafeteria_logo.png" width="256">
-<p style="font-size: 4em; font-family: 'Josefin Sans'; color: black;">Cafeteria</p></div>
+<p style="font-size: 4em; font-family: 'Josefin Sans'; color: black;"><b>Cafeteria</b></p></div>
 
 A Flutter application to automate cafeteria orders at Epoka University. Developed in Flutter and Firebase.
 
